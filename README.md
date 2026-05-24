@@ -6,7 +6,7 @@ A folder-based AI coach for junior hockey players (ages 16-20) navigating nutrit
 
 ## How to use this
 
-**New here?** Watch the [setup walkthrough video](https://drive.google.com/file/d/1uplQMAI2DmwuYdJoromODrN3PohliYEB/view?usp=sharing) to see how to get the coach running on your computer.
+**New here?** Watch the <a href="https://drive.google.com/file/d/1uplQMAI2DmwuYdJoromODrN3PohliYEB/view?usp=sharing" target="_blank">setup walkthrough video</a> to see how to get the coach running on your computer.
 
 This coach runs in **Claude Code**. The whole experience depends on Claude being able to read and write files, which only Claude Code supports.
 
