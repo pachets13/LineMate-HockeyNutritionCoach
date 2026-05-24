@@ -46,3 +46,5 @@ Built for an interpretable context methodology competition. The build uses the f
 The domain (junior hockey nutrition, ages 16-20) was chosen from the builder's own experience playing in the MJHL.
 
 Feedback welcome. If you're a junior hockey player, a coach, a billet, or a dietitian working with junior players and you see something off, that's exactly the input that would make this better.
+
+*Developer note: when working inside the project root as a builder rather than a player, say `builder mode` to drop the coach persona for that session. Say `coach mode` to resume.*
